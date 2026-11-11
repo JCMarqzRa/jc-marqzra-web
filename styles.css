@@ -36,3 +36,19 @@
     border-color: #bda58e;
     background: #25211e;
 }
+
+/* Anuncio de Apple Books */
+
+.anuncio-apple {
+    display: flex;
+    justify-content: center;
+    margin-top: 45px;
+    width: 100%;
+}
+
+.anuncio-apple iframe {
+    width: 500px;
+    max-width: 100%;
+    height: 500px;
+    border: none;
+}
