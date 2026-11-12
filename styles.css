@@ -22,6 +22,21 @@
     transform: scale(1.03);
 }
 
+.store-link {
+    display: inline-block;
+    padding: 12px 20px;
+    border: 1px solid #444;
+    color: #bda58e;
+    text-decoration: none;
+    background: transparent;
+    transition: 0.3s;
+}
+
+.store-link:hover {
+    border-color: #bda58e;
+    background: #25211e;
+}
+
 .anuncio-apple {
     display: flex;
     justify-content: center;
