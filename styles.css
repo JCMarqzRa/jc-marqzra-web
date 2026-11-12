@@ -51,11 +51,23 @@
 }
 .anuncio-kindle iframe {
     display: flex;
-    justify-content; center;
+    justify-content: center;
     width: 100%;
     margin-top: 50px;
 }
 .anuncio-kindle iframe {
+    width: 500px;
+    max-width: 100%;
+    height: 520px;
+    border: none;
+}
+.anuncio-kobo iframe {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: 50px;
+}
+.anuncio-kobo iframe {
     width: 500px;
     max-width: 100%;
     height: 520px;
